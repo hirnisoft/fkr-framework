@@ -1,7 +1,9 @@
 # FKR – Functional Complexity Reduction
 
-> A system design approach for reducing unnecessary complexity  
-> through functional clarity and structured systems.
+> Reduce complexity. Not manage it.
+
+A system design approach for eliminating unnecessary complexity  
+through functional clarity and structured systems.
 
 by Roger Sandmeier
 
@@ -10,7 +12,7 @@ by Roger Sandmeier
 ## What is FKR?
 
 Functional Complexity Reduction (FKR) is a system design approach  
-focused on eliminating unnecessary complexity at its source.
+focused on removing unnecessary complexity at its source.
 
 It does not optimize how you deal with complexity.  
 It reduces the amount of complexity that exists.
@@ -24,10 +26,14 @@ It reduces the amount of complexity that exists.
 
 FKR shifts the perspective from optimization to elimination.
 
-- reduce decisions  
-- reduce redundancy  
-- reduce mental load  
-- build systems that are clear and stable  
+- reduce decisions
+    
+- reduce redundancy
+    
+- reduce mental load
+    
+- build systems that are clear and stable
+    
 
 > Clarity is not achieved by organizing complexity.  
 > Clarity is achieved by removing it.
@@ -37,24 +43,28 @@ FKR shifts the perspective from optimization to elimination.
 ## Principles
 
 - **Function over features**  
-  Every element has a clear primary purpose.
-
+    Every element has a clear primary purpose.
+    
 - **Fewer options**  
-  More choice creates more friction.
-
+    More choice creates more friction.
+    
 - **External systems**  
-  The system holds information – not your head.
-
+    The system holds information – not your head.
+    
 - **Structured behavior**  
-  Systems replace ad-hoc decisions.
+    Systems replace ad-hoc decisions.
+    
 
 ---
 
 ## What FKR is NOT
 
-- not minimalism  
-- not productivity hacking  
-- not self-optimization  
+- not minimalism
+    
+- not productivity hacking
+    
+- not self-optimization
+    
 
 FKR is:
 
@@ -67,9 +77,12 @@ FKR is:
 Most problems are not actual problems.  
 They are side effects of unnecessary complexity.
 
-- too many tools  
-- too many options  
-- too many unclear states  
+- too many tools
+    
+- too many options
+    
+- too many unclear states
+    
 
 FKR removes the cause instead of treating the symptoms.
 
@@ -77,12 +90,16 @@ FKR removes the cause instead of treating the symptoms.
 
 ## Structure
 
-This repository contains:
+This repository will contain:
 
-- core framework (principles, laws, definitions)  
-- comparisons (GTD, Minimalism, Essentialism, CLD)  
-- applied examples (architecture, tools, systems)  
-- anti-patterns and failure modes  
+- core framework (principles, laws, definitions)
+    
+- comparisons (GTD, Minimalism, Essentialism, CLD)
+    
+- applied examples (architecture, tools, systems)
+    
+- anti-patterns and failure modes
+    
 
 ---
 
@@ -95,4 +112,4 @@ This repository contains:
 ## License
 
 This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for details.
+See the LICENSE file for details.
